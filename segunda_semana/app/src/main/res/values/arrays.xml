@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_conversion">tipos_conversion</string-array>
+    <string-array name="unidades_conversion">unidades_conversion</string-array>
+</resources>
